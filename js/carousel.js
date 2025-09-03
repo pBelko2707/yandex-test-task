@@ -34,10 +34,10 @@ const members = [
 
 // Элементы DOM
 const carousel = document.querySelector('.carousel');
-const desktopPrevBtn = document.getElementById('desktopPrevBtn'); // Добавлено
-const desktopNextBtn = document.getElementById('desktopNextBtn'); // Добавлено
-const mobilePrevBtn = document.getElementById('mobilePrevBtn');   // Добавлено
-const mobileNextBtn = document.getElementById('mobileNextBtn');   // Добавлено
+const desktopPrevBtn = document.getElementById('desktopPrevBtn');
+const desktopNextBtn = document.getElementById('desktopNextBtn');
+const mobilePrevBtn = document.getElementById('mobilePrevBtn');
+const mobileNextBtn = document.getElementById('mobileNextBtn');
 const desktopCounter = document.querySelector('.navigation__buttons .slide-counter'); // Счетчик для десктопа
 const mobileCounter = document.querySelector('.navigation__mobile .slide-counter');   // Счетчик для мобилки
 
